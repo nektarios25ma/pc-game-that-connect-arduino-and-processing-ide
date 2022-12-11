@@ -33,3 +33,5 @@ LINK:https://www.hellasdigital.gr/go-create/arduino-shields-and-accessories/6-do
 
 Ultrasonic Module Distance for Arduino=€1,88
 LINK: https://www.hellasdigital.gr/electronics/sensors/ultasonic/hc-sr04-ultrasonic-module-distance-measuring-transducer-sensor-for-arduino/
+
+ARDUINO NANO  CLONE
