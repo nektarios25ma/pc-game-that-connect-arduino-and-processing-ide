@@ -20,3 +20,13 @@
 Παρέχει επίσης μια γραφική διεπαφή χρήστη για την απλοποίηση του σταδίου μεταγλώττισης και εκτέλεσης.
 
 Η γλώσσα επεξεργασίας και το IDE ήταν ο πρόδρομος άλλων έργων, όπως το Arduino και το Wiring .
+ΥΛΙΚΑ:
+ARDUINO UNO (CLONE)+BREADBOARD=€14,88
+LINK:https://www.hellasdigital.gr/go-create/kits/arduino-uno-r3-new-starter-kit/
+
+SENSOR Accelerometer=€21.50
+LINK: https://grobotronics.com/sparkfun-triple-axis-accelerometer-breakout-adxl335.html
+
+6 DOF IMU Shield For Arduino=€41,79
+LINK:https://www.hellasdigital.gr/go-create/arduino-shields-and-accessories/6-dof-imu-shield-for-arduino-dfr0209/
+
