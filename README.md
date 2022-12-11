@@ -40,5 +40,5 @@ LINK: https://www.hellasdigital.gr/go-create/arduino/arduino-nano-v3.0-w-atmega3
 Arduino Nano IO Expansion Shield=€3,45
 LINK:https://www.hellasdigital.gr/electronics/prototyping/modules/nano-i-o-expansion-shield-for-arduino-uno-r3/
 
-ΣΥΝΟΛΟ=
+ΣΥΝΟΛΟ=95€
 
