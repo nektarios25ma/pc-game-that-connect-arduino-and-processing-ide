@@ -81,16 +81,10 @@ digitalWrite(trigPin, LOW);
 duration = pulseIn(echoPin, HIGH);
 //Υπολογισμός απόστασης (σε cm) βασιζόμενοι στην ταχύτητα του ήχου.
 distance = duration/58.3;
-//if (distance >= maximumRange || distance <= minimumRange){
-//Serial.println("amogus");
-//delay(50);
-//}
-//else {
+
+
 Serial.println(distance);
-//delay(25);
-//};
-//Καθυστέρηση 50ms πριν την επόμενη ανάγνωση
-//delay(50);
+
 lcd.setCursor(0, 0);
 lcd.print("Distance:"); lcd.setCursor(10, 0);lcd.print(distance); lcd.setCursor(14, 0); lcd.print("cm"); // You can make spaces using well... spaces
     lcd.setCursor(1, 1); // Or setting the cursor in the desired position.
@@ -101,7 +95,7 @@ lcd.print("Distance:"); lcd.setCursor(10, 0);lcd.print(distance); lcd.setCursor(
     lcd.print("GEL SOUDAS 2022-2023");
 lcd.setCursor(0,3);
 lcd.print("STUDENT:LEANDROS P.");
-    delay(250);
+    delay(200);
 }
 if (pot>341 && pot<=682)
 {
