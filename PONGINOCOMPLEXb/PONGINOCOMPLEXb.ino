@@ -79,11 +79,11 @@ duration = pulseIn(echoPin, HIGH);
 distance = duration/58.3;
 //if (distance >= maximumRange || distance <= minimumRange){
 //Serial.println("amogus");
-//delay(50);
+//delay(5);
 //}
 //else {
 Serial.println(distance);
-//delay(25);
+
 //};
 //Καθυστέρηση 50ms πριν την επόμενη ανάγνωση
 //delay(50);
@@ -93,6 +93,7 @@ lcd.print(" Distance:"); // You can make spaces using well... spaces
     lcd.print(distance);
     lcd.setCursor(8, 1); // Or setting the cursor in the desired position.
     lcd.print("cm");
+  delay(250);
 }
 if (pot>341 && pot<=682)
 {
