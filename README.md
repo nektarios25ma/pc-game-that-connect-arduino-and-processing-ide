@@ -23,6 +23,7 @@
 1)ΣΧΗΜΑΤΙΚΟ ΔΙΑΓΡΑΜΜΑ ΕΝΩΣΕΩΝ-SCHAMETIC ,PIN OUT:
 https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=PmCyip97oHABN1HMhwtkbMbY11XmnVlXyoVj72j1bXw
 
+2)Το συνολικό διάγραμμα είναι η εικόνα-png all-schematic.
 ΥΛΙΚΑ:
 
 ARDUINO UNO (CLONE)+BREADBOARD=€14,88
