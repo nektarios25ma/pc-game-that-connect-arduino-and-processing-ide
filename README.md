@@ -20,6 +20,9 @@
 Παρέχει επίσης μια γραφική διεπαφή χρήστη για την απλοποίηση του σταδίου μεταγλώττισης και εκτέλεσης.
 
 Η γλώσσα επεξεργασίας και το IDE ήταν ο πρόδρομος άλλων έργων, όπως το Arduino και το Wiring .
+1)ΣΧΗΜΑΤΙΚΟ ΔΙΑΓΡΑΜΜΑ ΕΝΩΣΕΩΝ-SCHAMETIC ,PIN OUT:
+https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=PmCyip97oHABN1HMhwtkbMbY11XmnVlXyoVj72j1bXw
+
 ΥΛΙΚΑ:
 
 ARDUINO UNO (CLONE)+BREADBOARD=€14,88
