@@ -29,7 +29,8 @@ To processing χρησιμοποιεί τη γλώσσα Java , με πρόσθ�
 Φτιάξαμε επίσης μέσω του tinkercad 3d-stl κουτί για την τοποθέτηση των συσκευών μας.
 
 ΕΞΗΓΗΣΗ
-VIDEO LINK :  https://youtu.be/bH8vBlg4YJ4
+VIDEO LINK :https://drive.google.com/file/d/1yuXesDzbK-p1zB9N3SUM91SjlKLq627T/view?usp=sharing ή
+https://youtu.be/bH8vBlg4YJ4
 
 
 1)ΣΧΗΜΑΤΙΚΟ ΔΙΑΓΡΑΜΜΑ ΕΝΩΣΕΩΝ-SCHAMETIC ,PIN OUT:
