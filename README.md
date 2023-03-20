@@ -28,6 +28,10 @@ To processing χρησιμοποιεί τη γλώσσα Java , με πρόσθ�
 Το 1ο ποτενσιόμτρο λειτουργεί ως ένας επιλογέας mode, μέσω του οποίου επιλέγουμε λειτουργία(δηλαδή ping pong,avoid obstacle game, DHT VALUES demonstation).
 Φτιάξαμε επίσης μέσω του tinkercad 3d-stl κουτί για την τοποθέτηση των συσκευών μας.
 
+ΕΞΗΓΗΣΗ
+VIDEO LINK :  https://youtu.be/bH8vBlg4YJ4
+
+
 1)ΣΧΗΜΑΤΙΚΟ ΔΙΑΓΡΑΜΜΑ ΕΝΩΣΕΩΝ-SCHAMETIC ,PIN OUT:
 https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=PmCyip97oHABN1HMhwtkbMbY11XmnVlXyoVj72j1bXw
 
