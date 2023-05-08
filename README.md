@@ -43,6 +43,17 @@ https://youtu.be/bH8vBlg4YJ4
 https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=PmCyip97oHABN1HMhwtkbMbY11XmnVlXyoVj72j1bXw
 
 2)Το συνολικό διάγραμμα είναι η εικόνα-png all-schematic.
+
+3)Ο Κώσικας του που εκτελεί όλες τις λειτουργίες και είναι εγκτεστημένος στο μικροελεγκτή : https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/blob/main/PONGINOCOMPLEXf.ino
+
+4)Τα 3 pde -σχέδια ή προγράμματα που τρέχουν στο pc μας (processing ide) είναι (GITHUB):
+
+α)για την αποφυγή εμποδίων:  https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/blob/main/flappy1try.pde
+
+β)ping pong:  https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/blob/main/pongFINALpde2.pde
+
+γ) για την επίδειξη θερμοκρασίας -υγρασίας:  https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/blob/main/PROCESSING_DHTB.pde
+
 ΥΛΙΚΑ:
 
 ARDUINO UNO  = €23.92
