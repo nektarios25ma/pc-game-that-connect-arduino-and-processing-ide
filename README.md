@@ -44,7 +44,7 @@ https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=P
 
 2)Το συνολικό διάγραμμα είναι η εικόνα-png all-schematic.
 
-3)Ο Κώσικας του που εκτελεί όλες τις λειτουργίες και είναι εγκτεστημένος στο μικροελεγκτή : https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/blob/main/PONGINOCOMPLEXf.ino
+3)Ο Κώσικας του που εκτελεί όλες τις λειτουργίες και είναι εγκατεστημένος στο μικροελεγκτή : https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/blob/main/PONGINOCOMPLEXf.ino
 
 4)Τα 3 pde -σχέδια ή προγράμματα που τρέχουν στο pc μας (processing ide) είναι (GITHUB):
 
