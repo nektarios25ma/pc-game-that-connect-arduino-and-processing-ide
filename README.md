@@ -16,10 +16,10 @@
 και ο χρήστης αισθάνεται μεγαλύτερη συμμετοχή στο παιχνίδι.
 Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ultrasonic-avoid-obsacle-game
 
-2)Παιχνίδι ping pong με χειριστήριο ένα περιστροφικό ποτενσιόμετρο.
+2)'Ενα παιχνίδι ping pong που ελέγχεται απο ένα ποτενσιόμετρο που καθορίζει την θέση της ρακέτας.
 Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ping-pong-pot-sellection
 
-3)Ένα όμορφο αναλογικό γραφικό περιβάλλον που επιδεικνύει πχ θερμοκρασία και υγρασία.
+3)Προσθέσαμε ένα αισθητήρα θερμοκρασίας - υγρασίας με αντίστοιχο πρόγραμμα processing pde που επιδεικνύει με όμορφο αναλογικό τρόπο την τιμές.
 Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/temperature-and-humidity-analog-circle-graph+
 
 Τι είναι όμως το περιβάλλον processing ide (https://processing.org/):
@@ -31,8 +31,6 @@ To processing χρησιμοποιεί τη γλώσσα Java , με πρόσθ�
 
 Η γλώσσα επεξεργασίας PROCESSING και το IDE ήταν ο πρόδρομος άλλων έργων, όπως το Arduino και το Wiring .
 
-Προσθέσαμε ένα αισθητήρα θερμοκρασίας - υγρασίας με αντίστοιχο πρόγραμμα processing pde που επιδεικνύει με όμορφο αναλογικό τρόπο την τιμές,
-όπως και ένα παιχνίδι ping pong που ελέγχεται απο ένα ποτενσιόμετρο που καθορίζει την θέση της ρακέτας.
 Το 1ο ποτενσιόμτρο λειτουργεί ως ένας επιλογέας mode, μέσω του οποίου επιλέγουμε λειτουργία(δηλαδή ping pong,avoid obstacle game, DHT VALUES demonstation).
 Φτιάξαμε επίσης μέσω του tinkercad 3d-stl κουτί για την τοποθέτηση των συσκευών μας.
 
