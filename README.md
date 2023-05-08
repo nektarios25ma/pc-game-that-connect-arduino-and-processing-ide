@@ -20,6 +20,7 @@
 Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ping-pong-pot-sellection
 
 3)Ένα όμορφο αναλογικό γραφικό περιβάλλον που επιδεικνύει πχ θερμοκρασία και υγρασία.
+Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/temperature-and-humidity-analog-circle-graph+
 Τι είναι όμως το περιβάλλον processing ide (https://processing.org/):
 το Processing είναι μια δωρεάν γραφική βιβλιοθήκη και ένα ολοκληρωμένο περιβάλλον ανάπτυξης (IDE) που έχει δημιουργηθεί για τις ηλεκτρονικές τέχνες,
 την τέχνη νέων μέσων και τις κοινότητες οπτικού σχεδιασμού με σκοπό να διδάξει σε μη προγραμματιστές τις βασικές αρχές του προγραμματισμού υπολογιστών σε οπτικό πλαίσιο.
