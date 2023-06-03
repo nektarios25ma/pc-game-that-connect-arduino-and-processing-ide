@@ -14,13 +14,13 @@
 Τώρα, κάθε κονσόλα παιχνιδιών συνοδεύεται από έναν Virtual Controller που μας βοηθά να παίξουμε το παιχνίδι 
 χρησιμοποιώντας τις κινήσεις και τις χειρονομίες του σώματός μας, με αυτόν τον τρόπο η εμπειρία παιχνιδιού έχει απογειωθεί
 και ο χρήστης αισθάνεται μεγαλύτερη συμμετοχή στο παιχνίδι.
-Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ultrasonic-avoid-obsacle-game
+Αυτή την ιδιαίτερη λειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ultrasonic-avoid-obsacle-game
 
 2)'Ενα παιχνίδι ping pong το οποίο ελέγχεται από ένα ποτενσιόμετρο ως περιστροφικό διακόπτη(Potentiometer Knob) και καθορίζει την θέση της ρακέτας.
-Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ping-pong-pot-sellection
+Αυτή την ιδιαίτερη λειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/ping-pong-pot-sellection
 
 3)Προσθέσαμε ένα αισθητήρα θερμοκρασίας - υγρασίας με αντίστοιχο πρόγραμμα processing pde που επιδεικνύει με όμορφο αναλογικό τρόπο την τιμές.
-Αυτή την υπολειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/temperature-and-humidity-analog-circle-graph+
+Αυτή την ιδιαίτερη λειτουργία της συσκευής μας μπορείτε να την φτιάξετε ως ξεχωριστό έργο συμφωνα με το branche αυτού του GITHUB: https://github.com/nektarios25ma/pc-game-that-connect-arduino-and-processing-ide/tree/temperature-and-humidity-analog-circle-graph+
 
 Τι είναι όμως το περιβάλλον processing ide (https://processing.org/):
 το Processing είναι μια δωρεάν γραφική βιβλιοθήκη και ένα ολοκληρωμένο περιβάλλον ανάπτυξης (IDE) που έχει δημιουργηθεί για τις ηλεκτρονικές τέχνες,
