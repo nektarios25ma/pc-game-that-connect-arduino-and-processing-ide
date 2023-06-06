@@ -45,3 +45,8 @@ LINK
 
 ΣΥΝΟΛΟ=100€
 
+References/Sources:
+1.https://processing.org/
+2.https://www.youtube.com/watch?v=YgjsWvFRpSE
+3.https://circuitdigest.com/microcontroller-projects/ping-pong-game-using-arduino-accelerometer
+4.https://www.youtube.com/watch?v=Rc_sbgp6Eho
