@@ -37,7 +37,7 @@ To processing χρησιμοποιεί τη γλώσσα Java , με πρόσθ�
 ΕΞΗΓΗΣΗ
 VIDEO LINK :https://youtu.be/FJJp1MoLb2Q
 
-
+IN ENGLISH: https://drive.google.com/file/d/1eoebnZaPJoS6Eic72A88gzOE-BJhELMh/view?usp=sharing
 
 1)ΣΧΗΜΑΤΙΚΟ ΔΙΑΓΡΑΜΜΑ ΕΝΩΣΕΩΝ-SCHAMETIC ,PIN OUT:
 https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=PmCyip97oHABN1HMhwtkbMbY11XmnVlXyoVj72j1bXw
