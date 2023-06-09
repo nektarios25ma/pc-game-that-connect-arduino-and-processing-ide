@@ -39,6 +39,8 @@ VIDEO LINK :https://youtu.be/FJJp1MoLb2Q
 
 IN ENGLISH: https://drive.google.com/file/d/1eoebnZaPJoS6Eic72A88gzOE-BJhELMh/view?usp=sharing
 
+Ο σχεδιασμός του 3D κουτιού όπως και των υπόλοιπων 3D κομματιών έγινε από τα παιδιά και εκτυπώθηκε από τον Αναστασάκη Νίκο-ΕΚΦΕ ΧΑΝΙΩΝ που συνδράμει πάντοτε στα έργα μας.
+
 1)ΣΧΗΜΑΤΙΚΟ ΔΙΑΓΡΑΜΜΑ ΕΝΩΣΕΩΝ-SCHAMETIC ,PIN OUT:
 https://www.tinkercad.com/things/53lLq5LIQLN-hsr04-connection/editel?sharecode=PmCyip97oHABN1HMhwtkbMbY11XmnVlXyoVj72j1bXw
 
