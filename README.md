@@ -1,4 +1,7 @@
 # pc-game-that-connect-arduino-and-processing-ide
+
+Πλήρης εξήγηση στην ιστοσελίδα της ΕΛΛΑΚ: https://openedtech.ellak.gr/robotics2023/omada-gamers-pc-game-that-connect-arduino-and-processing-ide/
+
 Η βούληση να φτιάξουμε μια εύκολα πραγματοποιήσιμη παιχνιδομηχανή με Virtual Controller και όχι μόνο μας οδήγησε 
 σε αυτό το έργο.
 
